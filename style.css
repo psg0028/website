@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Squada+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&display=swap');
+
+/* font-family: 'Libre Barcode 39 Text', cursive; */
+/* font-family: 'Special Elite', cursive; */
+/* font-family: 'Squada One', cursive; */
+
+
+body {
+    margin: 0px;
+}
+#pgspic {
+    display:flex;
+    justify-content:center;
+}
+
+
+#pgspic2 {
+    display:flex;
+    justify-content:center;
+}
+#welcome {
+    display:flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Squada One', cursive;
+}
+
+#welcome2 {
+    display:flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Squada One', cursive;
+    color: blue;
+    background-color: black;
+}
+
+#welcome3 {
+    display:flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Squada One', cursive;
+    color: blue;
+    background-color: black;
+}
+
+#os {
+    display:flex;
+    justify-content:center;
+    height: 80px;
+    font-size: 80px;
+    font-family: 'Squada One', cursive;
+    background-color: black;
+}
+
+#os2 {
+    display:flex;
+    justify-content:center;
+    height: 80px;
+    font-size: 300px;
+    font-family: 'Squada One', cursive;
+
+}
+#navbar {
+    background-color: hsl(0, 0%, 0%);
+    height: 20px;
+    font-size: 28px;
+    font-family: 'Special Elite', cursive;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body { 
+    background-image: url("background\ pgs.png");
+        background-color: black;
+    box-sizing:border-box;
+    padding:25px 0px 25px 0px
+
+}
+/* background-color : black; */
+/* } */
+/* this is how to target all of you htlm */
+h1{
+    color:rgb(9, 0, 141);
+    font-size: 70px;
+
+}
+/* body { */
+    /* background-image: url("background.jpeg") */
+/* } */
+/* this is how to target an element withing out html */
+
+.pgs{
+    background-color: black;
+    box-sizing:border-box;
+    padding:25px 0px 25px 0px
+
+}
+
+
+.hello{
+    background-color: rgb(9, 230, 238)
+    box-sizing: border-box;
+    padding: 15px 15px 15px 15px
+}
+
+/* this is how targeting works */
+
+.large{
+    font-size: 30px;
+}
+.green {
+    background-color: rgb(104, 104, 104);
+}
+
+.image{
+    width: 30%;
+}
+
+p {
+Background-color: rgb(0, 132, 255);
+    
+    font-size: 30px
+    font-family: 'Squada One', cursive;
+    text-align: center;
+    padding: .10px;
+}
+
+
+p {
+    font-size:20px;
+    font-family: 'Special Elite', cursive;
+    font-style: ;
+    font-weight: 500;
+}
+#chapter
+
+
+
+
+body {
+    /* margin px; */
+}
+.centredtext {
+    text-align: center;
+}
+.menu {
+    height: px;
+    background-color:rgb(8, 84, 248);
+    border: 10px cadetblue;
+
+}
